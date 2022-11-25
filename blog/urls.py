@@ -1,5 +1,8 @@
-from django.urls import path  # noqa
+from django.urls import path, include  # noqa
+from rest_framework import routers
+from .views import ArticleViewSets
 
-urlpatterns = [
+router = routers.DefaultRouter()
+router.register('articles', ArticleViewSets)
 
-]
+urlpatterns = router.urls
