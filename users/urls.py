@@ -1,7 +1,7 @@
 from django.urls import path, include
 from rest_framework import routers
 from .views import (
-    UserViewSet, CustomAuthToken, LogoutApiView, VideoLikeDislikeUsersAPIView
+    UserViewSet, CustomAuthToken, LogoutApiView,
 )
 
 # routers

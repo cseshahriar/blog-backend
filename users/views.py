@@ -49,14 +49,3 @@ class LogoutApiView(APIView):
             user.auth_token.delete()
 
         return Response(status=status.HTTP_200_OK)
-
-
-class VideoLikeDislikeUsersAPIView(APIView):
-    """ user detail and update """
-    permission_classes = (AllowAny,)
-
-    def post(self, request, format=None):
-        user_ids = request.data.get('user_ids', None)
-        users = User.objects.filter(pk__in=user_ids)
-        serializer = UserSerializer(users, many=True)
-        return Response(serializer.data)
