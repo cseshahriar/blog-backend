@@ -10,10 +10,6 @@ router.register('users', UserViewSet)
 
 urlpatterns = [
     path('auth/', CustomAuthToken.as_view()),
-    path('', include(router.urls)),
     path('logout/', LogoutApiView.as_view()),
-    path(
-        'video/users', VideoLikeDislikeUsersAPIView.as_view(),
-        name='video_users'
-    ),
+    path('', include(router.urls)),
 ]
