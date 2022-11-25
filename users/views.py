@@ -14,7 +14,6 @@ from rest_framework.authentication import TokenAuthentication
 class UserViewSet(viewsets.ModelViewSet):
     queryset = User.objects.all()
     serializer_class = UserSerializer
-    permission_classes = (AllowAny,)
     authentication_classes = (TokenAuthentication,)
 
 
