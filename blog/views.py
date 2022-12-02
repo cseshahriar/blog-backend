@@ -4,12 +4,14 @@ from .serializers import ArticleSerializer
 from rest_framework.authentication import (
     TokenAuthentication,
 )
+from rest_framework.permissions import IsAuthenticated
 
 
 class ArticleViewSets(viewsets.ModelViewSet):
     queryset = Article.objects.all()
     serializer_class = ArticleSerializer
-    authentication_classes = [TokenAuthentication, ]
+    permission_classes = [IsAuthenticated]
+    authentication_classes = [TokenAuthentication]
 
     def perform_create(self, serializer):
         serializer.save(created_user=self.request.user)

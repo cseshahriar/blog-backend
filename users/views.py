@@ -8,12 +8,14 @@ from rest_framework.views import APIView
 
 from .models import User
 from .serializers import UserSerializer
+from rest_framework.permissions import IsAuthenticated
 from rest_framework.authentication import TokenAuthentication
 
 
 class UserViewSet(viewsets.ModelViewSet):
     queryset = User.objects.all()
     serializer_class = UserSerializer
+    permission_classes = [IsAuthenticated]
     authentication_classes = (TokenAuthentication,)
 
 
