@@ -1,0 +1,305 @@
+2022-11-25 10:07:20,826 INFO autoreload 15896 140242308136960 Watching for file changes with StatReloader
+2022-11-25 10:07:25,260 WARNING log 15896 140242214446656 Not Found: /
+2022-11-25 10:07:25,702 WARNING log 15896 140242206053952 Not Found: /favicon.ico
+2022-11-25 10:11:48,673 INFO autoreload 15896 140242308136960 /home/shosen/projects/blog_backend/app/settings.py changed, reloading.
+2022-11-25 10:11:49,074 INFO autoreload 16627 140131605458944 Watching for file changes with StatReloader
+2022-11-25 10:12:13,950 INFO autoreload 16627 140131605458944 /home/shosen/projects/blog_backend/blog/admin.py changed, reloading.
+2022-11-25 10:12:14,343 INFO autoreload 16743 140699414507520 Watching for file changes with StatReloader
+2022-11-25 10:12:22,813 INFO autoreload 16743 140699414507520 /home/shosen/projects/blog_backend/blog/models.py changed, reloading.
+2022-11-25 10:12:23,293 INFO autoreload 16816 140369261555712 Watching for file changes with StatReloader
+2022-11-25 10:12:44,183 INFO autoreload 16816 140369261555712 /home/shosen/projects/blog_backend/app/local_settings.py changed, reloading.
+2022-11-25 10:12:44,591 INFO autoreload 16922 140233521930240 Watching for file changes with StatReloader
+2022-11-25 10:57:46,965 INFO autoreload 16922 140233521930240 /home/shosen/projects/blog_backend/app/urls.py changed, reloading.
+2022-11-25 10:57:47,393 INFO autoreload 20397 140566274695168 Watching for file changes with StatReloader
+2022-11-25 10:58:02,990 INFO autoreload 20397 140566274695168 /home/shosen/projects/blog_backend/app/urls.py changed, reloading.
+2022-11-25 10:58:03,385 INFO autoreload 20450 140652934488064 Watching for file changes with StatReloader
+2022-11-25 11:04:17,664 INFO autoreload 20450 140652934488064 /home/shosen/projects/blog_backend/blog/urls.py changed, reloading.
+2022-11-25 11:04:18,046 INFO autoreload 20919 139691137560576 Watching for file changes with StatReloader
+2022-11-25 11:04:22,346 INFO autoreload 20919 139691137560576 /home/shosen/projects/blog_backend/blog/urls.py changed, reloading.
+2022-11-25 11:04:22,765 INFO autoreload 20950 139802048413696 Watching for file changes with StatReloader
+2022-11-25 11:04:24,953 INFO autoreload 20950 139802048413696 /home/shosen/projects/blog_backend/blog/urls.py changed, reloading.
+2022-11-25 11:04:25,370 INFO autoreload 21015 140664874807296 Watching for file changes with StatReloader
+2022-11-25 11:05:55,606 INFO autoreload 21015 140664874807296 /home/shosen/projects/blog_backend/blog/models.py changed, reloading.
+2022-11-25 11:05:56,008 INFO autoreload 21165 140431606734848 Watching for file changes with StatReloader
+2022-11-25 11:06:34,143 INFO autoreload 21165 140431606734848 /home/shosen/projects/blog_backend/blog/models.py changed, reloading.
+2022-11-25 11:06:34,560 INFO autoreload 21274 139960616497152 Watching for file changes with StatReloader
+2022-11-25 11:07:25,387 INFO autoreload 21274 139960616497152 /home/shosen/projects/blog_backend/blog/admin.py changed, reloading.
+2022-11-25 11:07:25,798 INFO autoreload 21462 139820728619008 Watching for file changes with StatReloader
+2022-11-25 11:08:16,392 INFO autoreload 21462 139820728619008 /home/shosen/projects/blog_backend/blog/admin.py changed, reloading.
+2022-11-25 11:08:16,821 INFO autoreload 21600 140494843482112 Watching for file changes with StatReloader
+2022-11-25 11:08:20,050 INFO autoreload 21600 140494843482112 /home/shosen/projects/blog_backend/blog/admin.py changed, reloading.
+2022-11-25 11:08:20,457 INFO autoreload 21631 140268610420736 Watching for file changes with StatReloader
+2022-11-25 11:08:28,678 WARNING base 21631 140268516927040 Session data corrupted
+2022-11-25 11:08:28,726 WARNING base 21631 140268516927040 Session data corrupted
+2022-11-25 11:08:30,457 WARNING base 21631 140268498044480 Session data corrupted
+2022-11-25 11:09:57,678 INFO autoreload 21631 140268610420736 /home/shosen/projects/blog_backend/blog/admin.py changed, reloading.
+2022-11-25 11:09:58,081 INFO autoreload 22060 139889249452032 Watching for file changes with StatReloader
+2022-11-25 11:10:00,275 INFO autoreload 22060 139889249452032 /home/shosen/projects/blog_backend/blog/admin.py changed, reloading.
+2022-11-25 11:10:00,687 INFO autoreload 22091 140450133901312 Watching for file changes with StatReloader
+2022-11-25 11:10:02,870 INFO autoreload 22091 140450133901312 /home/shosen/projects/blog_backend/blog/admin.py changed, reloading.
+2022-11-25 11:10:03,255 INFO autoreload 22101 139930087649280 Watching for file changes with StatReloader
+2022-11-25 11:10:11,617 INFO autoreload 22101 139930087649280 /home/shosen/projects/blog_backend/blog/admin.py changed, reloading.
+2022-11-25 11:10:12,002 INFO autoreload 22161 139714115289088 Watching for file changes with StatReloader
+2022-11-25 11:10:15,245 INFO autoreload 22161 139714115289088 /home/shosen/projects/blog_backend/blog/admin.py changed, reloading.
+2022-11-25 11:10:15,641 INFO autoreload 22194 140316414660608 Watching for file changes with StatReloader
+2022-11-25 11:10:16,847 INFO autoreload 22194 140316414660608 /home/shosen/projects/blog_backend/blog/admin.py changed, reloading.
+2022-11-25 11:10:17,230 INFO autoreload 22206 140457580957696 Watching for file changes with StatReloader
+2022-11-25 11:10:18,417 INFO autoreload 22206 140457580957696 /home/shosen/projects/blog_backend/blog/admin.py changed, reloading.
+2022-11-25 11:10:18,798 INFO autoreload 22214 140227326648320 Watching for file changes with StatReloader
+2022-11-25 11:10:20,742 WARNING base 22214 140227232392768 Session data corrupted
+2022-11-25 11:10:20,784 WARNING base 22214 140227232392768 Session data corrupted
+2022-11-25 11:10:22,024 WARNING base 22214 140227232392768 Session data corrupted
+2022-11-25 11:10:26,240 INFO autoreload 22214 140227326648320 /home/shosen/projects/blog_backend/blog/admin.py changed, reloading.
+2022-11-25 11:10:26,655 INFO autoreload 22323 140267546669056 Watching for file changes with StatReloader
+2022-11-25 11:14:09,576 WARNING base 22323 140267452622400 Session data corrupted
+2022-11-25 11:14:09,615 WARNING base 22323 140267452622400 Session data corrupted
+2022-11-25 11:14:11,097 WARNING base 22323 140267452622400 Session data corrupted
+2022-11-25 11:32:13,865 INFO autoreload 22323 140267546669056 /home/shosen/projects/blog_backend/blog/urls.py changed, reloading.
+2022-11-25 11:32:14,312 INFO autoreload 23776 140430314741760 Watching for file changes with StatReloader
+2022-11-25 11:33:12,861 INFO autoreload 23776 140430314741760 /home/shosen/projects/blog_backend/blog/views.py changed, reloading.
+2022-11-25 11:33:13,288 INFO autoreload 23989 139748974153728 Watching for file changes with StatReloader
+2022-11-25 11:33:27,862 INFO autoreload 23989 139748974153728 /home/shosen/projects/blog_backend/blog/views.py changed, reloading.
+2022-11-25 11:33:28,291 INFO autoreload 24057 140268994265088 Watching for file changes with StatReloader
+2022-11-25 11:33:34,531 WARNING base 24057 140268900705856 Session data corrupted
+2022-11-25 11:33:34,593 ERROR log 24057 140268900705856 Internal Server Error: /api/articles/
+Traceback (most recent call last):
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 768, in data
+    ret = super().data
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 686, in to_representation
+    return [
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 507, in to_representation
+    for field in fields:
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 368, in _readable_fields
+    for field in self.fields.values():
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/django/utils/functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 356, in fields
+    for key, value in self.get_fields().items():
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 1052, in get_fields
+    field_names = self.get_field_names(declared_fields, info)
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 1148, in get_field_names
+    assert field_name in fields, (
+AssertionError: The field 'created_user' was declared on serializer ArticleSerializer, but has not been included in the 'fields' option.
+2022-11-25 11:34:24,178 INFO autoreload 24057 140268994265088 /home/shosen/projects/blog_backend/blog/serializers.py changed, reloading.
+2022-11-25 11:34:24,599 INFO autoreload 24397 140113879560192 Watching for file changes with StatReloader
+2022-11-25 11:34:26,916 INFO autoreload 24397 140113879560192 /home/shosen/projects/blog_backend/blog/serializers.py changed, reloading.
+2022-11-25 11:34:27,338 INFO autoreload 24429 139765259862016 Watching for file changes with StatReloader
+2022-11-25 11:34:29,157 WARNING base 24429 139765165844032 Session data corrupted
+2022-11-25 11:34:29,218 ERROR log 24429 139765165844032 Internal Server Error: /api/articles/
+Traceback (most recent call last):
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/django/core/handlers/base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/django/views/decorators/csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/viewsets.py", line 125, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/mixins.py", line 46, in list
+    return Response(serializer.data)
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 768, in data
+    ret = super().data
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 253, in data
+    self._data = self.to_representation(self.instance)
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 686, in to_representation
+    return [
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 687, in <listcomp>
+    self.child.to_representation(item) for item in iterable
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 522, in to_representation
+    ret[field.field_name] = field.to_representation(attribute)
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/rest_framework/serializers.py", line 686, in to_representation
+    return [
+TypeError: 'User' object is not iterable
+2022-11-25 11:34:43,061 INFO autoreload 24429 139765259862016 /home/shosen/projects/blog_backend/blog/serializers.py changed, reloading.
+2022-11-25 11:34:43,477 INFO autoreload 24532 140699159379968 Watching for file changes with StatReloader
+2022-11-25 11:34:45,115 WARNING base 24532 140699065378368 Session data corrupted
+2022-11-25 11:34:51,926 INFO autoreload 24532 140699159379968 /home/shosen/projects/blog_backend/blog/serializers.py changed, reloading.
+2022-11-25 11:34:52,351 INFO autoreload 24612 140196036255744 Watching for file changes with StatReloader
+2022-11-25 11:35:01,820 INFO autoreload 24612 140196036255744 /home/shosen/projects/blog_backend/blog/serializers.py changed, reloading.
+2022-11-25 11:35:02,224 INFO autoreload 24683 140587860500480 Watching for file changes with StatReloader
+2022-11-25 11:35:07,543 INFO autoreload 24683 140587860500480 /home/shosen/projects/blog_backend/blog/serializers.py changed, reloading.
+2022-11-25 11:35:07,964 INFO autoreload 24740 140586200928256 Watching for file changes with StatReloader
+2022-11-25 15:02:57,458 INFO autoreload 36903 139746798678016 Watching for file changes with StatReloader
+2022-11-25 15:03:00,008 WARNING base 36903 139746704614976 Session data corrupted
+2022-11-25 15:03:05,905 INFO autoreload 36903 139746798678016 /home/shosen/projects/blog_backend/blog/serializers.py changed, reloading.
+2022-11-25 15:03:06,340 INFO autoreload 37028 139945598644224 Watching for file changes with StatReloader
+2022-11-25 15:03:08,634 INFO autoreload 37028 139945598644224 /home/shosen/projects/blog_backend/blog/serializers.py changed, reloading.
+2022-11-25 15:03:09,091 INFO autoreload 37055 140285717344256 Watching for file changes with StatReloader
+2022-11-25 15:03:13,418 INFO autoreload 37055 140285717344256 /home/shosen/projects/blog_backend/blog/serializers.py changed, reloading.
+2022-11-25 15:03:13,831 INFO autoreload 37082 140526895718400 Watching for file changes with StatReloader
+2022-11-25 15:03:16,112 INFO autoreload 37082 140526895718400 /home/shosen/projects/blog_backend/blog/serializers.py changed, reloading.
+2022-11-25 15:03:16,538 INFO autoreload 37117 140478986084352 Watching for file changes with StatReloader
+2022-11-25 15:04:34,984 WARNING base 37117 140478892729920 Session data corrupted
+2022-11-25 15:04:42,524 WARNING base 37117 140478892729920 Session data corrupted
+2022-11-25 15:05:47,269 INFO autoreload 37117 140478986084352 /home/shosen/projects/blog_backend/blog/serializers.py changed, reloading.
+2022-11-25 15:05:47,710 INFO autoreload 37464 140219370950656 Watching for file changes with StatReloader
+2022-11-25 15:05:48,668 WARNING base 37464 140219206596160 Session data corrupted
+2022-11-25 15:06:07,322 INFO autoreload 37464 140219370950656 /home/shosen/projects/blog_backend/blog/serializers.py changed, reloading.
+2022-11-25 15:06:07,750 INFO autoreload 37585 140106346844160 Watching for file changes with StatReloader
+2022-11-25 15:06:11,427 WARNING base 37585 140106252936768 Session data corrupted
+2022-11-25 15:06:23,532 WARNING base 37585 140106252936768 Session data corrupted
+2022-11-25 15:06:28,524 WARNING base 37585 140106252936768 Session data corrupted
+2022-11-25 15:06:36,157 WARNING base 37585 140106252936768 Session data corrupted
+2022-11-25 15:06:39,098 WARNING base 37585 140106252936768 Session data corrupted
+2022-11-25 15:06:45,195 INFO autoreload 37585 140106346844160 /home/shosen/projects/blog_backend/blog/serializers.py changed, reloading.
+2022-11-25 15:06:45,603 INFO autoreload 37760 140146358128640 Watching for file changes with StatReloader
+2022-11-25 15:07:30,132 INFO autoreload 37760 140146358128640 /home/shosen/projects/blog_backend/blog/serializers.py changed, reloading.
+2022-11-25 15:07:30,516 INFO autoreload 37810 140092684361728 Watching for file changes with StatReloader
+2022-11-25 15:08:10,962 INFO autoreload 37810 140092684361728 /home/shosen/projects/blog_backend/blog/serializers.py changed, reloading.
+2022-11-25 15:08:11,344 INFO autoreload 37869 139934194057216 Watching for file changes with StatReloader
+2022-11-25 15:08:20,694 INFO autoreload 37869 139934194057216 /home/shosen/projects/blog_backend/blog/serializers.py changed, reloading.
+2022-11-25 15:08:21,119 INFO autoreload 37930 140280852127744 Watching for file changes with StatReloader
+2022-11-25 15:09:09,863 INFO autoreload 37930 140280852127744 /home/shosen/projects/blog_backend/users/urls.py changed, reloading.
+2022-11-25 15:09:10,288 INFO autoreload 38152 139804279005184 Watching for file changes with StatReloader
+2022-11-25 15:09:48,453 INFO autoreload 38152 139804279005184 /home/shosen/projects/blog_backend/users/urls.py changed, reloading.
+2022-11-25 15:09:48,851 INFO autoreload 38281 139749798678528 Watching for file changes with StatReloader
+2022-11-25 15:09:55,147 INFO autoreload 38281 139749798678528 /home/shosen/projects/blog_backend/users/urls.py changed, reloading.
+2022-11-25 15:09:55,559 INFO autoreload 38330 139883320483840 Watching for file changes with StatReloader
+2022-11-25 15:10:00,833 INFO autoreload 38330 139883320483840 /home/shosen/projects/blog_backend/users/urls.py changed, reloading.
+2022-11-25 15:10:01,252 INFO autoreload 38368 140373682040832 Watching for file changes with StatReloader
+2022-11-25 15:10:33,630 WARNING base 38368 140373588436544 Session data corrupted
+2022-11-25 15:10:33,685 WARNING base 38368 140373588436544 Session data corrupted
+2022-11-25 15:10:35,240 WARNING base 38368 140373569553984 Session data corrupted
+2022-11-25 15:13:45,855 INFO autoreload 38368 140373682040832 /home/shosen/projects/blog_backend/app/settings.py changed, reloading.
+2022-11-25 15:13:46,264 INFO autoreload 38864 140709493248000 Watching for file changes with StatReloader
+2022-11-25 15:13:47,998 WARNING base 38864 140709400143424 Session data corrupted
+2022-11-25 15:13:48,026 WARNING log 38864 140709400143424 Forbidden: /api/articles/
+2022-11-25 15:13:52,701 INFO autoreload 38864 140709493248000 /home/shosen/projects/blog_backend/app/settings.py changed, reloading.
+2022-11-25 15:13:53,095 INFO autoreload 38941 139704365027328 Watching for file changes with StatReloader
+2022-11-25 15:40:51,455 WARNING log 38941 139704270841408 Forbidden: /api/articles/
+2022-11-25 15:41:23,099 WARNING base 38941 139704261400128 Session data corrupted
+2022-11-25 15:41:23,141 WARNING base 38941 139704261400128 Session data corrupted
+2022-11-25 15:41:24,544 WARNING base 38941 139704225732160 Session data corrupted
+2022-11-25 15:41:35,767 WARNING log 38941 139704270841408 Forbidden: /api/articles/
+2022-11-25 15:41:53,430 WARNING log 38941 139704270841408 Forbidden: /api/articles/
+2022-11-25 15:41:59,937 WARNING log 38941 139704270841408 Forbidden: /api/articles/
+2022-11-25 15:42:16,529 WARNING log 38941 139704270841408 Forbidden: /api/articles/
+2022-11-25 15:42:24,758 WARNING log 38941 139704270841408 Forbidden: /api/articles/
+2022-11-25 15:42:32,993 WARNING log 38941 139704270841408 Forbidden: /api/articles/
+2022-11-25 15:42:35,901 WARNING log 38941 139704270841408 Forbidden: /api/articles/
+2022-11-25 15:43:02,169 INFO autoreload 38941 139704365027328 /home/shosen/projects/blog_backend/users/views.py changed, reloading.
+2022-11-25 15:43:02,627 INFO autoreload 40731 140593991745536 Watching for file changes with StatReloader
+2022-11-25 15:43:03,801 INFO autoreload 40731 140593991745536 /home/shosen/projects/blog_backend/users/views.py changed, reloading.
+2022-11-25 15:43:04,187 INFO autoreload 40753 140571763523584 Watching for file changes with StatReloader
+2022-11-25 15:44:37,589 INFO autoreload 40753 140571763523584 /home/shosen/projects/blog_backend/users/urls.py changed, reloading.
+2022-11-25 15:44:38,004 INFO autoreload 41022 140252191150080 Watching for file changes with StatReloader
+2022-11-25 15:44:41,384 WARNING base 41022 140252022830656 Session data corrupted
+2022-11-25 15:44:41,417 WARNING log 41022 140252022830656 Method Not Allowed: /api/auth/
+2022-11-25 15:44:46,166 ERROR log 41022 140252006045248 Internal Server Error: /api/auth
+Traceback (most recent call last):
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/django/utils/deprecation.py", line 135, in __call__
+    response = self.process_request(request)
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/django/middleware/common.py", line 54, in process_request
+    path = self.get_full_path_with_slash(request)
+  File "/home/shosen/projects/blog_backend/venv/lib/python3.10/site-packages/django/middleware/common.py", line 88, in get_full_path_with_slash
+    raise RuntimeError(
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 127.0.0.1:8000/api/auth/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
+2022-11-25 15:45:13,144 WARNING log 41022 140252006045248 Forbidden: /api/articles/
+2022-11-25 15:45:42,295 WARNING log 41022 140252006045248 Forbidden: /api/articles/
+2022-11-25 15:45:55,663 WARNING log 41022 140252006045248 Forbidden: /api/articles/
+2022-11-25 15:46:06,478 WARNING log 41022 140252006045248 Forbidden: /api/articles/
+2022-11-25 15:46:19,634 WARNING log 41022 140252006045248 Forbidden: /api/articles/
+2022-11-25 15:47:18,539 WARNING log 41022 140252006045248 Forbidden: /api/articles/
+2022-11-25 15:47:20,272 WARNING log 41022 140252006045248 Forbidden: /api/articles/
+2022-11-25 15:48:51,658 WARNING log 41022 140252006045248 Forbidden: /api/articles/
+2022-11-25 15:49:12,451 WARNING log 41022 140252006045248 Forbidden: /api/articles/
+2022-11-25 15:49:51,067 INFO autoreload 41022 140252191150080 /home/shosen/projects/blog_backend/users/urls.py changed, reloading.
+2022-11-25 15:49:51,549 INFO autoreload 41678 140485006307328 Watching for file changes with StatReloader
+2022-11-25 15:50:56,953 INFO autoreload 41678 140485006307328 /home/shosen/projects/blog_backend/blog/views.py changed, reloading.
+2022-11-25 15:50:57,373 INFO autoreload 41803 140550465286144 Watching for file changes with StatReloader
+2022-11-25 15:51:04,879 INFO autoreload 41803 140550465286144 /home/shosen/projects/blog_backend/blog/views.py changed, reloading.
+2022-11-25 15:51:05,319 INFO autoreload 41864 140310188511232 Watching for file changes with StatReloader
+2022-11-25 16:00:11,009 INFO autoreload 41864 140310188511232 /home/shosen/projects/blog_backend/blog/views.py changed, reloading.
+2022-11-25 16:00:11,413 INFO autoreload 42204 139797926862848 Watching for file changes with StatReloader
+2022-11-25 16:00:17,780 INFO autoreload 42204 139797926862848 /home/shosen/projects/blog_backend/blog/views.py changed, reloading.
+2022-11-25 16:00:18,199 INFO autoreload 42251 140608701730816 Watching for file changes with StatReloader
+2022-11-25 16:01:52,345 INFO autoreload 42251 140608701730816 /home/shosen/projects/blog_backend/users/views.py changed, reloading.
+2022-11-25 16:01:52,776 INFO autoreload 42404 140039483269120 Watching for file changes with StatReloader
+2022-11-25 16:02:01,014 WARNING log 42404 140039389439552 Unauthorized: /api/users/
+2022-11-25 16:02:21,584 WARNING log 42404 140039389439552 Unauthorized: /api/users/
+2022-11-25 16:02:58,869 INFO autoreload 42404 140039483269120 /home/shosen/projects/blog_backend/users/views.py changed, reloading.
+2022-11-25 16:02:59,320 INFO autoreload 42590 140431271600128 Watching for file changes with StatReloader
+2022-11-25 16:03:02,605 INFO autoreload 42590 140431271600128 /home/shosen/projects/blog_backend/users/views.py changed, reloading.
+2022-11-25 16:03:03,022 INFO autoreload 42624 139894445547520 Watching for file changes with StatReloader
+2022-11-25 19:31:37,139 INFO autoreload 11819 139652274655232 Watching for file changes with StatReloader
+2022-11-25 19:31:43,556 WARNING base 11819 139652181780032 Session data corrupted
+2022-11-25 19:31:43,568 WARNING log 11819 139652181780032 Not Found: /product/list/
+2022-11-25 19:31:43,955 WARNING base 11819 139652173387328 Session data corrupted
+2022-11-25 19:31:43,960 WARNING log 11819 139652173387328 Not Found: /favicon.ico
+2022-11-25 19:31:52,594 WARNING base 11819 139652173387328 Session data corrupted
+2022-11-25 19:31:52,600 WARNING log 11819 139652173387328 Unauthorized: /api/articles/
+2022-11-25 19:32:10,152 WARNING base 11819 139652162897472 Session data corrupted
+2022-11-25 19:32:10,185 WARNING base 11819 139652162897472 Session data corrupted
+2022-11-25 19:32:11,874 WARNING base 11819 139652162897472 Session data corrupted
+2022-11-25 19:32:13,936 WARNING log 11819 139652181780032 Unauthorized: /api/articles/
+2022-11-25 19:32:15,718 WARNING log 11819 139652181780032 Unauthorized: /api/articles/
+2022-11-25 19:32:19,837 WARNING log 11819 139652181780032 Unauthorized: /api/articles/
+2022-11-25 19:32:23,254 WARNING log 11819 139652181780032 Unauthorized: /api/articles/
+2022-11-25 19:34:02,646 INFO autoreload 11819 139652274655232 /home/shosen/projects/blog_backend/blog/views.py changed, reloading.
+2022-11-25 19:34:03,066 INFO autoreload 12433 140690913341440 Watching for file changes with StatReloader
+2022-11-25 19:34:17,695 INFO autoreload 12433 140690913341440 /home/shosen/projects/blog_backend/blog/views.py changed, reloading.
+2022-11-25 19:34:18,123 INFO autoreload 12493 140140694532096 Watching for file changes with StatReloader
+2022-11-25 19:34:20,874 WARNING base 12493 140140600092224 Session data corrupted
+2022-11-25 19:34:20,918 WARNING log 12493 140140600092224 Unauthorized: /api/articles/
+2022-11-25 19:34:22,628 WARNING base 12493 140140600092224 Session data corrupted
+2022-11-25 19:34:22,674 WARNING log 12493 140140600092224 Unauthorized: /api/articles/
+2022-11-25 19:34:29,715 INFO autoreload 12493 140140694532096 /home/shosen/projects/blog_backend/blog/views.py changed, reloading.
+2022-11-25 19:34:30,154 INFO autoreload 12622 140185213091840 Watching for file changes with StatReloader
+2022-11-25 19:34:30,446 WARNING base 12622 140185048184384 Session data corrupted
+2022-11-25 19:34:30,457 WARNING log 12622 140185048184384 Unauthorized: /api/articles/
+2022-11-25 19:34:38,632 WARNING base 12622 140185048184384 Session data corrupted
+2022-11-25 19:34:38,640 WARNING log 12622 140185048184384 Unauthorized: /api/articles/
+2022-11-25 19:37:20,410 WARNING base 12622 140185048184384 Session data corrupted
+2022-11-25 19:37:20,478 WARNING base 12622 140185048184384 Session data corrupted
+2022-11-25 19:37:22,061 WARNING base 12622 140185048184384 Session data corrupted
+2022-11-25 19:37:25,242 WARNING log 12622 140185048184384 Unauthorized: /api/articles/
+2022-11-25 19:37:26,055 WARNING log 12622 140185048184384 Unauthorized: /api/articles/
+2022-11-25 19:57:17,506 WARNING log 12622 140185048184384 Unauthorized: /api/articles/
+2022-11-25 19:57:25,576 INFO autoreload 12622 140185213091840 /home/shosen/projects/blog_backend/blog/views.py changed, reloading.
+2022-11-25 19:57:25,993 INFO autoreload 14996 139801519972352 Watching for file changes with StatReloader
+2022-11-25 19:57:33,455 INFO autoreload 14996 139801519972352 /home/shosen/projects/blog_backend/blog/views.py changed, reloading.
+2022-11-25 19:57:33,866 INFO autoreload 15051 139706631258112 Watching for file changes with StatReloader
+2022-11-25 19:57:37,181 INFO autoreload 15051 139706631258112 /home/shosen/projects/blog_backend/blog/views.py changed, reloading.
+2022-11-25 19:57:37,591 INFO autoreload 15075 139689541758976 Watching for file changes with StatReloader
+2022-11-25 19:57:40,094 WARNING base 15075 139689380017728 Session data corrupted
+2022-11-25 19:57:40,105 WARNING log 15075 139689380017728 Unauthorized: /api/articles/
+2022-11-25 20:06:29,355 INFO autoreload 15075 139689541758976 /home/shosen/projects/blog_backend/blog/views.py changed, reloading.
+2022-11-25 20:06:29,819 INFO autoreload 15429 139811545845760 Watching for file changes with StatReloader
+2022-11-25 20:06:44,477 INFO autoreload 15429 139811545845760 /home/shosen/projects/blog_backend/blog/views.py changed, reloading.
+2022-11-25 20:06:44,885 INFO autoreload 15656 140583130390528 Watching for file changes with StatReloader
+2022-11-25 20:06:56,366 INFO autoreload 15656 140583130390528 /home/shosen/projects/blog_backend/blog/views.py changed, reloading.
+2022-11-25 20:06:56,749 INFO autoreload 15721 140321340801024 Watching for file changes with StatReloader
+2022-11-25 20:15:57,852 WARNING base 15721 140321246668352 Session data corrupted
+2022-11-25 20:15:57,861 WARNING log 15721 140321246668352 Unauthorized: /api/articles/
