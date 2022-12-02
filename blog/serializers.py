@@ -9,5 +9,12 @@ class ArticleSerializer(serializers.ModelSerializer):
     class Meta:
         model = Article
         fields = (
-            'id', 'title', 'description', 'created_user'
+            'id', 'title', 'description', 'created_user', 'created_at'
         )
+
+        extra_kwargs = {
+            'created_at': {
+                'read_only': True,
+                'required': False
+            }
+        }
