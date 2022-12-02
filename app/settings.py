@@ -163,7 +163,10 @@ LOGGING = LOGGING  # app/logging.py
 # CORS HEADERS
 # CORS_ALLOWED_ORIGINS = CORS_ALLOWED_ORIGINS
 # CORS_ALLOW_ALL_ORIGINS = DEBUG  # Allows from all origins when DEBUG mode on
-CORS_ALLOW_ALL_ORIGINS = True
+# CORS_ALLOW_ALL_ORIGINS = True
+CORS_ALLOWED_ORIGINS = [
+    "http://localhost:3000",  # frontend server address
+]
 
 AUTH_USER_MODEL = 'users.User'
 
