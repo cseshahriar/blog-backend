@@ -8,7 +8,6 @@ from rest_framework.views import APIView
 
 from .models import User
 from .serializers import UserSerializer
-from rest_framework.permissions import IsAuthenticated
 from rest_framework.authentication import TokenAuthentication
 
 

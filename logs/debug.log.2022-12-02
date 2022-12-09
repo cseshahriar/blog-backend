@@ -1,0 +1,64 @@
+2022-12-02 10:39:29,534 INFO autoreload 7580 139721397387264 Watching for file changes with StatReloader
+2022-12-02 10:41:55,289 INFO autoreload 7580 139721397387264 /home/shosen/projects/blog_backend/users/serializers.py changed, reloading.
+2022-12-02 10:41:55,715 INFO autoreload 7728 139997652381696 Watching for file changes with StatReloader
+2022-12-02 10:42:32,710 INFO autoreload 7728 139997652381696 /home/shosen/projects/blog_backend/users/serializers.py changed, reloading.
+2022-12-02 10:42:33,149 INFO autoreload 7803 139873163067392 Watching for file changes with StatReloader
+2022-12-02 10:49:37,073 INFO autoreload 7803 139873163067392 /home/shosen/projects/blog_backend/blog/serializers.py changed, reloading.
+2022-12-02 10:49:37,468 INFO autoreload 8879 139956835651584 Watching for file changes with StatReloader
+2022-12-02 10:50:32,269 INFO autoreload 8879 139956835651584 /home/shosen/projects/blog_backend/blog/views.py changed, reloading.
+2022-12-02 10:50:32,690 INFO autoreload 9006 140273675972608 Watching for file changes with StatReloader
+2022-12-02 10:50:34,910 INFO autoreload 9006 140273675972608 /home/shosen/projects/blog_backend/blog/views.py changed, reloading.
+2022-12-02 10:50:35,319 INFO autoreload 9045 140047504232448 Watching for file changes with StatReloader
+2022-12-02 10:50:46,868 INFO autoreload 9045 140047504232448 /home/shosen/projects/blog_backend/blog/views.py changed, reloading.
+2022-12-02 10:50:47,258 INFO autoreload 9081 139863330050048 Watching for file changes with StatReloader
+2022-12-02 10:51:32,861 INFO autoreload 9081 139863330050048 /home/shosen/projects/blog_backend/blog/views.py changed, reloading.
+2022-12-02 10:51:33,263 INFO autoreload 9185 140532644982784 Watching for file changes with StatReloader
+2022-12-02 10:51:39,675 INFO autoreload 9185 140532644982784 /home/shosen/projects/blog_backend/blog/views.py changed, reloading.
+2022-12-02 10:51:40,092 INFO autoreload 9235 140034946228224 Watching for file changes with StatReloader
+2022-12-02 10:51:45,431 INFO autoreload 9235 140034946228224 /home/shosen/projects/blog_backend/blog/views.py changed, reloading.
+2022-12-02 10:51:45,844 INFO autoreload 9270 140393839280128 Watching for file changes with StatReloader
+2022-12-02 10:51:56,332 INFO autoreload 9270 140393839280128 /home/shosen/projects/blog_backend/blog/serializers.py changed, reloading.
+2022-12-02 10:51:56,732 INFO autoreload 9310 140637448142848 Watching for file changes with StatReloader
+2022-12-02 10:51:58,981 INFO autoreload 9310 140637448142848 /home/shosen/projects/blog_backend/blog/serializers.py changed, reloading.
+2022-12-02 10:51:59,424 INFO autoreload 9338 140353801895936 Watching for file changes with StatReloader
+2022-12-02 10:52:09,893 INFO autoreload 9338 140353801895936 /home/shosen/projects/blog_backend/blog/serializers.py changed, reloading.
+2022-12-02 10:52:10,330 INFO autoreload 9545 140173683728384 Watching for file changes with StatReloader
+2022-12-02 11:09:54,199 INFO autoreload 9545 140173683728384 /home/shosen/projects/blog_backend/blog/views.py changed, reloading.
+2022-12-02 11:09:54,616 INFO autoreload 10973 140710791786496 Watching for file changes with StatReloader
+2022-12-02 11:12:40,290 INFO autoreload 10973 140710791786496 /home/shosen/projects/blog_backend/blog/views.py changed, reloading.
+2022-12-02 11:12:40,690 INFO autoreload 11141 140377207726080 Watching for file changes with StatReloader
+2022-12-02 11:12:44,980 INFO autoreload 11141 140377207726080 /home/shosen/projects/blog_backend/blog/views.py changed, reloading.
+2022-12-02 11:12:45,407 INFO autoreload 11177 140029152493568 Watching for file changes with StatReloader
+2022-12-02 11:13:05,106 INFO autoreload 11177 140029152493568 /home/shosen/projects/blog_backend/users/views.py changed, reloading.
+2022-12-02 11:13:05,527 INFO autoreload 11244 140005429874688 Watching for file changes with StatReloader
+2022-12-02 11:13:16,030 INFO autoreload 11244 140005429874688 /home/shosen/projects/blog_backend/users/views.py changed, reloading.
+2022-12-02 11:13:16,427 INFO autoreload 11305 140560389181440 Watching for file changes with StatReloader
+2022-12-02 11:13:20,682 INFO autoreload 11305 140560389181440 /home/shosen/projects/blog_backend/users/views.py changed, reloading.
+2022-12-02 11:13:21,077 INFO autoreload 11338 140598602891264 Watching for file changes with StatReloader
+2022-12-02 11:13:24,358 INFO autoreload 11338 140598602891264 /home/shosen/projects/blog_backend/users/views.py changed, reloading.
+2022-12-02 11:13:24,764 INFO autoreload 11369 139863959216128 Watching for file changes with StatReloader
+2022-12-02 12:14:18,426 WARNING base 11369 139863797003840 Session data corrupted
+2022-12-02 12:14:18,443 WARNING log 11369 139863797003840 Unauthorized: /api/articles/
+2022-12-02 12:14:19,019 WARNING base 11369 139863762384448 Session data corrupted
+2022-12-02 12:14:19,024 WARNING log 11369 139863762384448 Not Found: /favicon.ico
+2022-12-02 12:19:59,143 WARNING base 11369 139863788611136 Session data corrupted
+2022-12-02 12:19:59,235 WARNING base 11369 139863788611136 Session data corrupted
+2022-12-02 12:20:00,970 WARNING base 11369 139863779169856 Session data corrupted
+2022-12-02 12:31:46,937 INFO autoreload 11369 139863959216128 /home/shosen/projects/blog_backend/app/settings.py changed, reloading.
+2022-12-02 12:31:47,391 INFO autoreload 18746 139870031470592 Watching for file changes with StatReloader
+2022-12-02 12:31:56,789 INFO autoreload 18746 139870031470592 /home/shosen/projects/blog_backend/app/settings.py changed, reloading.
+2022-12-02 12:31:57,175 INFO autoreload 18808 140555939295232 Watching for file changes with StatReloader
+2022-12-02 12:32:18,817 INFO autoreload 18808 140555939295232 /home/shosen/projects/blog_backend/app/settings.py changed, reloading.
+2022-12-02 12:32:19,204 INFO autoreload 18873 140348721745920 Watching for file changes with StatReloader
+2022-12-02 12:32:23,535 INFO autoreload 18873 140348721745920 /home/shosen/projects/blog_backend/app/settings.py changed, reloading.
+2022-12-02 12:32:23,969 INFO autoreload 18904 140621910966272 Watching for file changes with StatReloader
+2022-12-02 12:32:34,530 INFO autoreload 18904 140621910966272 /home/shosen/projects/blog_backend/app/settings.py changed, reloading.
+2022-12-02 12:32:34,946 INFO autoreload 18993 139892541018112 Watching for file changes with StatReloader
+2022-12-02 12:32:44,545 INFO autoreload 18993 139892541018112 /home/shosen/projects/blog_backend/app/settings.py changed, reloading.
+2022-12-02 12:32:44,960 INFO autoreload 19042 140464531480576 Watching for file changes with StatReloader
+2022-12-02 12:45:40,074 INFO autoreload 19042 140464531480576 /home/shosen/projects/blog_backend/blog/serializers.py changed, reloading.
+2022-12-02 12:45:40,475 INFO autoreload 20411 139676362207232 Watching for file changes with StatReloader
+2022-12-02 12:45:53,033 INFO autoreload 20411 139676362207232 /home/shosen/projects/blog_backend/blog/serializers.py changed, reloading.
+2022-12-02 12:45:53,442 INFO autoreload 20503 140410969059328 Watching for file changes with StatReloader
+2022-12-02 12:47:16,630 INFO autoreload 20503 140410969059328 /home/shosen/projects/blog_backend/blog/serializers.py changed, reloading.
+2022-12-02 12:47:17,049 INFO autoreload 20589 140185147559936 Watching for file changes with StatReloader
