@@ -55,7 +55,10 @@ class ArticleViewSets(viewsets.ModelViewSet):
     authentication_classes = [SessionAuthentication, TokenAuthentication]
 
     def perform_create(self, serializer):
+        # tags = serializer.data.pop('tags')
         serializer.save(created_user=self.request.user)
+        # print('-' * 'tags', tags)
+        # article.tags.add(*tags)
 
     def perform_update(self, serializer):
         serializer.save(updated_user=self.request.user)
