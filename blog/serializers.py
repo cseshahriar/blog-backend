@@ -49,7 +49,8 @@ class CommentSerializer(serializers.ModelSerializer):
 
 
 class ArticleSerializer(serializers.ModelSerializer):
-    created_user = UserSerializer(read_only=True)
+    created_user = UserSerializer(read_only=True)  # m2o
+    tags = TagSerializer(many=True, read_only=True)  # m2m
 
     class Meta:
         model = Article
