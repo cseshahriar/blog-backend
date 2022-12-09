@@ -49,27 +49,12 @@ class CommentSerializer(serializers.ModelSerializer):
 
 
 class ArticleSerializer(serializers.ModelSerializer):
-    created_user = UserSerializer(read_only=True)  # m2o
-    tags = TagSerializer(many=True, read_only=True)  # m2m
-
     class Meta:
         model = Article
         fields = (
             'id', 'category', 'tags', 'title', 'description', 'meta_keywords',
             'thumbnail', 'status', 'created_user', 'created_at', 'published_at'
         )
-
-        extra_kwargs = {
-            'created_at': {
-                'read_only': True,
-                'required': False
-            },
-            'published_at': {
-                'read_only': True,
-                'required': False
-            },
-            'tags': {'required': False},
-        }
 
     def to_representation(self, instance):
         response = super().to_representation(instance)
