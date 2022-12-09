@@ -8,7 +8,7 @@ class CategorySerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Category
-        fields = ('id', 'parent', 'title', 'description', )
+        fields = ('id', 'parent', 'title', 'description', 'created_user')
 
         extra_kwargs = {
             'created_at': {
@@ -23,7 +23,7 @@ class TagSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Tag
-        fields = ('id', 'title', 'description', )
+        fields = ('id', 'title', 'description', 'created_user', )
 
         extra_kwargs = {
             'created_at': {
@@ -38,7 +38,7 @@ class CommentSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Comment
-        fields = ('id', 'content', )
+        fields = ('id', 'content', 'created_user', )
 
         extra_kwargs = {
             'created_at': {
@@ -55,7 +55,7 @@ class ArticleSerializer(serializers.ModelSerializer):
     class Meta:
         model = Article
         fields = (
-            'id', 'category', 'title', 'description', 'meta_keywords',
+            'id', 'category', 'tags', 'title', 'description', 'meta_keywords',
             'thumbnail', 'status', 'created_user', 'created_at', 'published_at'
         )
 

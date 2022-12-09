@@ -4,7 +4,7 @@ from .serializers import (
     CategorySerializer, TagSerializer, CommentSerializer, ArticleSerializer
 )
 from rest_framework.authentication import (
-    TokenAuthentication,
+    TokenAuthentication, SessionAuthentication
 )
 from rest_framework.permissions import IsAuthenticated
 
@@ -13,7 +13,7 @@ class CategoryViewSets(viewsets.ModelViewSet):
     queryset = Category.objects.all()
     serializer_class = CategorySerializer
     permission_classes = [IsAuthenticated]
-    authentication_classes = [TokenAuthentication]
+    authentication_classes = [SessionAuthentication, TokenAuthentication]
 
     def perform_create(self, serializer):
         serializer.save(created_user=self.request.user)
@@ -24,9 +24,9 @@ class CategoryViewSets(viewsets.ModelViewSet):
 
 class TagViewSets(viewsets.ModelViewSet):
     queryset = Tag.objects.all()
-    serializer_class = TagSerializer()
+    serializer_class = TagSerializer
     permission_classes = [IsAuthenticated]
-    authentication_classes = [TokenAuthentication]
+    authentication_classes = [SessionAuthentication, TokenAuthentication]
 
     def perform_create(self, serializer):
         serializer.save(created_user=self.request.user)
@@ -36,10 +36,10 @@ class TagViewSets(viewsets.ModelViewSet):
 
 
 class CommentViewSets(viewsets.ModelViewSet):
-    queryset = Comment().objects.all()
+    queryset = Comment.objects.all()
     serializer_class = CommentSerializer
     permission_classes = [IsAuthenticated]
-    authentication_classes = [TokenAuthentication]
+    authentication_classes = [SessionAuthentication, TokenAuthentication]
 
     def perform_create(self, serializer):
         serializer.save(created_user=self.request.user)
@@ -52,7 +52,7 @@ class ArticleViewSets(viewsets.ModelViewSet):
     queryset = Article.objects.all()
     serializer_class = ArticleSerializer
     permission_classes = [IsAuthenticated]
-    authentication_classes = [TokenAuthentication]
+    authentication_classes = [SessionAuthentication, TokenAuthentication]
 
     def perform_create(self, serializer):
         serializer.save(created_user=self.request.user)
