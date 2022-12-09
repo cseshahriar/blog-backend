@@ -70,3 +70,11 @@ class ArticleSerializer(serializers.ModelSerializer):
             },
             'tags': {'required': False},
         }
+
+    def to_representation(self, instance):
+        response = super().to_representation(instance)
+        # foreignKey
+        response['created_user'] = UserSerializer(instance.created_user).data
+        # m2m
+        response['tags'] = TagSerializer(instance.tags, many=True).data
+        return response
