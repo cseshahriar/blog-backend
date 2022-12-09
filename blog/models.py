@@ -63,13 +63,13 @@ class Article(BaseAttribute):
     description = models.TextField()
     thumbnail = models.ImageField(upload_to=article_upload_path)
     meta_keywords = models.TextField(blank=False)
-    published_at = models.DateTimeField(default=timezone.now)
+    published_at = models.DateTimeField(null=True, blank=True)
     status = models.CharField(
         max_length=10, choices=STATUS_CHOICES, default='draft'
     )
 
     class Meta:
-        ordering = ['-published_at']
+        ordering = ['-published_at', '-created_at']
 
     def save(self, *args, **kwargs):
         if self.slug:  # edit
@@ -77,6 +77,10 @@ class Article(BaseAttribute):
                 self.slug = generate_unique_slug(Article, self.title)
         else:  # create
             self.slug = generate_unique_slug(Article, self.title)
+
+        if self.status == 'published':
+            self.published_at = timezone.now()
+
         super(Article, self).save(*args, **kwargs)
 
     def __str__(self):
