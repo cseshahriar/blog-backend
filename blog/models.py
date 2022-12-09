@@ -13,7 +13,7 @@ class Category(BaseAttribute):
     )
     title = models.CharField(max_length=255, unique=True)
     slug = models.SlugField(max_length=200, unique=True, null=True, blank=True)
-    description = models.TextField()
+    description = models.TextField(blank=True)
 
     def save(self, *args, **kwargs):
         if self.slug:  # edit
@@ -30,7 +30,7 @@ class Category(BaseAttribute):
 class Tag(BaseAttribute):
     title = models.CharField(max_length=255, unique=True)
     slug = models.SlugField(max_length=200, unique=True, null=True, blank=True)
-    description = models.TextField()
+    description = models.TextField(blank=True)
 
     def save(self, *args, **kwargs):
         if self.slug:  # edit
